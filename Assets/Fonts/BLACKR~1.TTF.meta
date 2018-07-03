@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 801f2fb2aef821340a619af467edcb4c
+timeCreated: 1501683335
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Black Rose
+  fontNames:
+  - Black Rose
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
