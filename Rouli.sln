@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rouli", "Assembly-CSharp.csproj", "{1A6AFA13-7D62-B236-4C8E-BE54C0AD93AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rouli", "Assembly-CSharp-firstpass.csproj", "{F6347251-4F69-1CF1-3F64-63041E70FC4A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rouli", "Assembly-CSharp-Editor-firstpass.csproj", "{2B265B74-D594-ED1A-B69D-CFFB3C54474C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,14 +13,6 @@ Global
 		{1A6AFA13-7D62-B236-4C8E-BE54C0AD93AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A6AFA13-7D62-B236-4C8E-BE54C0AD93AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A6AFA13-7D62-B236-4C8E-BE54C0AD93AB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F6347251-4F69-1CF1-3F64-63041E70FC4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F6347251-4F69-1CF1-3F64-63041E70FC4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F6347251-4F69-1CF1-3F64-63041E70FC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F6347251-4F69-1CF1-3F64-63041E70FC4A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2B265B74-D594-ED1A-B69D-CFFB3C54474C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2B265B74-D594-ED1A-B69D-CFFB3C54474C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2B265B74-D594-ED1A-B69D-CFFB3C54474C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2B265B74-D594-ED1A-B69D-CFFB3C54474C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
