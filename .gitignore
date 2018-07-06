@@ -1,0 +1,4 @@
+# ignorer les répertoire suivant
+Library/
+Temp/
+obj/
