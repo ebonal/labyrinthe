@@ -7,10 +7,6 @@ public class EndController : MonoBehaviour {
 
     public AudioClip soundWin;
 
-    void Update () {
-        transform.Rotate(new Vector3(0, -45, 0) * Time.deltaTime);
-    }
-
     void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.tag == "Player")

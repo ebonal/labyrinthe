@@ -51,11 +51,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Asset Store\Mezanix\RealisticWoodTextures\0_Demo_Scene\Scripts\SimpleRotate.cs" />
      <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\EndController.cs" />
      <Compile Include="Assets\Scripts\GlobalVariables.cs" />
+     <Compile Include="Assets\Scripts\MazeCell.cs" />
+     <Compile Include="Assets\Scripts\MazeLoader.cs" />
      <Compile Include="Assets\Scripts\MenuController.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\RandomNumber.cs" />
      <Compile Include="Assets\Scripts\StickControl\ButtonHandler.cs" />
      <Compile Include="Assets\Scripts\StickControl\CrossPlatformInputManager.cs" />
      <Compile Include="Assets\Scripts\StickControl\Joystick.cs" />
@@ -64,6 +68,8 @@
      <Compile Include="Assets\Scripts\StickControl\PlatformSpecific\StandaloneInput.cs" />
      <Compile Include="Assets\Scripts\StickControl\VirtualInput.cs" />
      <Compile Include="Assets\Scripts\TrapHoleController.cs" />
+     <None Include="Assets\Asset Store\Mezanix\RealisticWoodTextures\0_1_Documentation\Textures_List.txt" />
+     <None Include="Assets\Asset Store\Mezanix\RealisticWoodTextures\0_1_Documentation\Read_me.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

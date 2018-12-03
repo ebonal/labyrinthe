@@ -6,7 +6,7 @@ PlayerSettings:
   serializedVersion: 12
   productGUID: 3cd6c31f18d44d84d96c07689ed7a1ff
   AndroidProfiler: 0
-  defaultScreenOrientation: 2
+  defaultScreenOrientation: 3
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
@@ -150,7 +150,7 @@ PlayerSettings:
   buildNumber:
     iOS: 0
   AndroidBundleVersionCode: 1
-  AndroidMinSdkVersion: 18
+  AndroidMinSdkVersion: 19
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
   aotOptions: 
@@ -227,7 +227,7 @@ PlayerSettings:
   AndroidKeyaliasName: 
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
-  androidEnableBanner: 1
+  androidEnableBanner: 0
   m_AndroidBanners:
   - width: 320
     height: 180
@@ -238,7 +238,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 04550512a36deb34887e513ee0f31545, type: 3}
+      m_Icon: {fileID: 2800000, guid: a6aa0256c0870a744afd53403d20bf3e, type: 3}
       m_Width: 128
       m_Height: 128
   m_BuildTargetBatching: []

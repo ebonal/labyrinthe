@@ -9,4 +9,8 @@ public static class GlobalVariables {
 
 	public static bool isPaused = false;
 	public static bool isWin = false;
+
+    public static int mazeSize = 10;
+
+    public static Vector3 startPosition =  Vector3.zero;
 }
